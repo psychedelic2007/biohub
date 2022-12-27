@@ -1,0 +1,17 @@
+{
+  "connections": [
+    {
+      "source": {
+        "name": "Country 1",
+        "latitude": 50.0,
+        "longitude": 10.0
+      },
+      "target": {
+        "name": "Country 2",
+        "latitude": 20.0,
+        "longitude": -10.0
+      }
+    },
+    // Add more connections here
+  ]
+}
